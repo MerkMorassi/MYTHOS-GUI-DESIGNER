@@ -1,0 +1,18 @@
+# SIA TERMINAL — FORGE NOTES (paste into Theme Forge Section 2 alongside terminal.css)
+
+TARGET THEME NAME: SIA Terminal
+
+DESIGN DIRECTIVES:
+Phosphor-green CRT terminal, black and green only. Pure black (#000)
+ground, primary green #00ff00, body text #00cc00, dim greens #008800 /
+#004400 for disabled and fine print, hairline borders #003300. Sharp
+2px technical borders, zero rounded corners on buttons, uppercase
+lettering with wide tracking, monospace throughout (CRT юридической
+Share Tech Mono style). Scanline-phosphor feel: bright green on black,
+no glow past 24px box-shadow tints (#002200). No Star Trek LCARS, no
+arches, no stardate styling — this is a bare phosphor console. Suggested
+archetype: tactical-hud. Suggested font stack: monospace display, mono
+body. Full legacy CSS is in terminal.css (142KB, in this pack). Reference
+screenshots are in shots/ — gallery.png is the canonical full-screen
+look, msd-board.png the control board, theme-panel.png / vox-panel.png /
+sync-drive.png / stage.png the supporting panels.
